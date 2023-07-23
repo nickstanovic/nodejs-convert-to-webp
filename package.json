@@ -1,7 +1,7 @@
 {
   "name": "nodejs-convert-to-webp",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a Node.js script that converts JPG files to WebP format using the sharp library. This project was inspired by my original Python script, found here: https://github.com/nickstanovic/convert-to-webp.",
   "type": "module",
   "main": "convert-webp.js",
   "scripts": {
